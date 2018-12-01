@@ -4,6 +4,8 @@ An animation of the hero banner available on [Business.vendo.ma](https://busines
 
 This project is based on [Vue CLI 3](https://cli.vuejs.org/).
 
+Demo available [here](https://arcade-machine-animation.netlify.com/).
+
 ## Project setup
 ```
 yarn install
