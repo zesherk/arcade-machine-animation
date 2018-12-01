@@ -1,4 +1,8 @@
-# arcade-machine-animation
+# Arcade machine animation
+
+An animation of the hero banner available on [Business.vendo.ma](https://business.vendo.ma/sponsored).
+
+This project is based on [Vue CLI 3](https://cli.vuejs.org/).
 
 ## Project setup
 ```
