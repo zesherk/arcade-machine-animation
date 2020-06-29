@@ -5,18 +5,18 @@
 </template>
 
 <script>
-import ArcadeAnimation from './components/ArcadeAnimation.vue'
+import ArcadeAnimation from "./components/ArcadeAnimation.vue";
 
 export default {
-  name: 'app',
+  name: "app",
   components: {
     ArcadeAnimation
   }
-}
+};
 </script>
 
 <style>
-@import './assets/css/main.css';
+@import "./assets/css/main.css";
 #app {
   height: 100%;
 }
